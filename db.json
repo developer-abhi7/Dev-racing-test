@@ -1,0 +1,86 @@
+{
+  "members": [
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "mbnmbmbnm",
+      "jobTitle": "Driver",
+      "team": "World Endurance Championship - Car 5",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "firstName": "Jeb",
+      "lastName": "Jackson",
+      "jobTitle": "Reserve Driver",
+      "team": "Deutsche Tourenwagen Masters - Car 118",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "firstName": "Nicolas",
+      "lastName": "Rvera",
+      "jobTitle": "Driver",
+      "team": "World Rally Championship - Car 90",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "firstName": "Max",
+      "lastName": "Verstappen",
+      "jobTitle": "Driver",
+      "team": "Deutsche Tourenwagen Masters - Car 117",
+      "status": "Inactive"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Formula 1 - Car 77"
+    },
+    {
+      "id": 2,
+      "teamName": "Formula 1 - Car 8"
+    },
+    {
+      "id": 3,
+      "teamName": "Formula 2 - Car 54"
+    },
+    {
+      "id": 4,
+      "teamName": "Formula 2 - Car 63"
+    },
+    {
+      "id": 5,
+      "teamName": "Deutsche Tourenwagen Masters - Car 117"
+    },
+    {
+      "id": 6,
+      "teamName": "Deutsche Tourenwagen Masters - Car 118"
+    },
+    {
+      "id": 7,
+      "teamName": "World Endurance Championship - Car 99"
+    },
+    {
+      "id": 8,
+      "teamName": "World Endurance Championship - Car 5"
+    },
+    {
+      "id": 9,
+      "teamName": "World Rally Championship - Car 77"
+    },
+    {
+      "id": 10,
+      "teamName": "World Rally Championship - Car 90"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$12$d3mcAk7qb9LpE6IfBz5DL.MCw47rXTFprCjWxQZUvNlBA6sJhRKTC",
+      "email": "admin@example.com"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+#addMemberButton {
+  margin-bottom: 10px;
+}
+
+
+.status {
+  font-size: 0.8rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  color: white;
+}
+
+.bg-active {
+  background-color: green;
+}
+
+.bg-inactive {
+  background-color: gray;
+}
+
+.space-right {
+  margin-right: 8px;
+}
